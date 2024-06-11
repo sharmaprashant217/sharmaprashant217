@@ -9,5 +9,5 @@ Skills: REACT NATIVE / JS / HTML / CSS / Docker / Git / Github
 - 🌱 I’m currently learning React Native and React 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharmaprashant217)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prashant-sharma-b2b69a1b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs8dM%2FAtGQXW9gEt8D5l6xQ%3D%3D/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sharmaprashant217)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prashant-sharma-b2b69a1b1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs8dM%2FAtGQXW9gEt8D5l6xQ%3D%3D/)
 
