@@ -1,6 +1,6 @@
 ### Hi there 👋, Prashant Sharma
 #### Design and Developement
-![Design and Developement](https://media.licdn.com/dms/image/v2/D5616AQEuaEYInaNEHQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707062263992?e=1730332800&v=beta&t=4pZ1WL4eey8u1gLrFxqhUP_OAtAmpoTxQQlJVSoOnRw)
+![Design and Developement](https://media.licdn.com/dms/image/v2/D5616AQGCox3HZrgC_g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730008062767?e=1736380800&v=beta&t=1uuMytqy_biMSWZY1486Ugx3u3ViIiqC9Gejcx1cd6s)
 
 "I am Prashant Sharma, a driven and passionate mobile app developer with a strong foundation in React Native. My expertise lies in creating feature-rich and user-friendly mobile applications for both iOS and Android platforms.
 
