@@ -4,7 +4,7 @@
 
 "I am Prashant Sharma, a driven and passionate mobile app developer with a strong foundation in React Native. My expertise lies in creating feature-rich and user-friendly mobile applications for both iOS and Android platforms.
 
-Skills: REACT NATIVE / JS / HTML / CSS / Docker / Git / Github
+Skills: REACT NATIVE / JS / HTML / CSS / Docker / Git / Github / Flutter / Dart
 
 - 🌱 I’m currently learning React Native and React 
 
